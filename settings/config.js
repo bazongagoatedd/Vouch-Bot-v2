@@ -1,7 +1,7 @@
 
 const config = {
 
-    token: 'Bot_Token',
+    token: 'MTM5MzAzNDc3ODgzOTYxNzY1Ng.GEBWSv.TEeRqyAH_Cc37q8RVOzXJyfcLP6Mxu_xp6yXek',
 
     mongo: "mongo_url",
 
