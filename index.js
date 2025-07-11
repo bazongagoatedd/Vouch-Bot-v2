@@ -106,4 +106,4 @@ client.on("messageCreate", async message => {
 
   
 
-  client.login(token)
+  client.login(MTM5MzAzNDc3ODgzOTYxNzY1Ng.GEBWSv.TEeRqyAH_Cc37q8RVOzXJyfcLP6Mxu_xp6yXek)
